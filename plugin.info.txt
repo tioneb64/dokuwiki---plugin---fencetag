@@ -1,0 +1,7 @@
+base   fencetag
+author Benoit
+email  benoit.thibaudeau64@gmail.com
+date   2026-11-18
+name   Fencetag (blocs ``` pour toutes les balises)
+desc   Permet d'écrire ```balise ... ``` à la place de <balise> ... </balise> pour toute balise ajoutée par un plugin (mermaid, wrap, kroki, fmtable...).
+url    https://www.dokuwiki.org/plugins
